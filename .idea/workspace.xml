@@ -24,7 +24,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Farhang/Documents/work & future/DataAnalysis/Project/Credit_Card_Fraud_Detection",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742909621722</updated>
       <workItem from="1742909623037" duration="563000" />
-      <workItem from="1742912875559" duration="2852000" />
+      <workItem from="1742912875559" duration="3189000" />
     </task>
     <servers />
   </component>
